@@ -1,0 +1,6 @@
+rpyc (3.3-1) stable; urgency=medium
+
+  [Denis Demidov]
+  * First packaged version.
+
+ -- Denis Demidov <dennis.demidov@gmail.com>  Tue, 29 Nov 2016 14:06:42 +0300
